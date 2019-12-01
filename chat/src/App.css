@@ -1,0 +1,42 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+ 
+.App-link {
+  color: #09d3ac;
+}
+
+
+
+.chatInput {
+  width: 80%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  height: 30px;
+}
+
+.littleBody{
+  width: 100%;
+  padding-top: 40px;
+  border: 1px solid black;
+  height: 103px;
+}
+
+.clickButton{
+  height: 35px;
+}
