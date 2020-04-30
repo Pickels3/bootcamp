@@ -1,2 +1,2 @@
-# start
+# starting point
 Chat project.
